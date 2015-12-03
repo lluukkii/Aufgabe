@@ -1,0 +1,58 @@
+
+
+
+
+
+label {
+	width:		120px;
+	display:	block;
+	float:		left;
+	
+	
+}
+
+input, select {
+	margin-bottom:	20px;
+
+}
+
+
+
+body {
+margin:50px;
+margin-top:20px;
+}
+
+h2 {
+padding-top: 10px;
+Padding-bottom:20px;
+
+}
+
+
+
+body {
+    background: url("http://localhost/aufgabe1/backgroundhimmel.jpg") ;
+}
+
+
+
+	
+#content-wrapper{
+		float: bottom;
+		width: 510px;
+		background: blue;
+		margin-bottom: 10px;
+	}
+
+#header{
+		
+		margin-top: 10px;
+	}
+
+form{
+		float: right;
+		width: 500px;
+		background: grey;
+		
+	}
